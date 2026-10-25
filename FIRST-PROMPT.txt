@@ -1,0 +1,5 @@
+Read AGENTS.md and start my onboarding. I am new to this.
+Ask one question at a time, help me choose one useful task,
+and guide me toward a small result I can check.
+Use fictional data until we agree which real data is appropriate.
+If I already have workspace files, resume from them instead of starting again.

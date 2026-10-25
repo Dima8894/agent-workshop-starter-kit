@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you adapt or teach with this kit, please cite the project and retain the MIT license notice."
+title: "Agent Workshop / AI Starter Kit"
+authors:
+  - family-names: "Titov"
+    given-names: "Dmitrii"
+    website: "https://github.com/Dima8894"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+repository-code: "https://github.com/Dima8894/agent-workshop-starter-kit"
+abstract: "A beginner-friendly English starter kit for turning one everyday task into a checked AI result, a repeatable workflow, and a shared working system. Includes adaptive onboarding, context templates, fictional examples, and team learning guidance."
+keywords:
+  - AI literacy
+  - context engineering
+  - agent workflows
+  - corporate learning
+  - Codex

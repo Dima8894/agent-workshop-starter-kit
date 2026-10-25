@@ -1,0 +1,11 @@
+workspace/
+dist/
+work/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Agent Workshop / AI Starter Kit</title><desc id="desc">One task. A result you can check. A system you can grow.</desc>
+<rect width="1280" height="400" rx="24" fill="#101d2c"/>
+<path d="M930 70h260M930 140h260M930 210h260M930 280h260" stroke="#294051" stroke-width="2"/>
+<path d="M960 280l55-75 55 30 80-150" fill="none" stroke="#9debcc" stroke-width="5"/>
+<g fill="#9debcc"><circle cx="960" cy="280" r="7"/><circle cx="1015" cy="205" r="7"/><circle cx="1070" cy="235" r="7"/><circle cx="1150" cy="85" r="7"/></g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="60" y="70" font-size="17" fill="#9debcc" letter-spacing="3">BY DMITRII TITOV · OPEN SOURCE</text>
+<text x="60" y="149" font-size="60" font-weight="700" fill="#ffffff">Agent Workshop</text><text x="60" y="211" font-size="48" fill="#9debcc">/ AI Starter Kit</text>
+<text x="60" y="280" font-size="23" fill="#d6e0e9">One task. A result you can check.</text><text x="60" y="315" font-size="23" fill="#d6e0e9">A system you can grow.</text>
+<text x="60" y="365" font-size="15" fill="#9aaebd">BEGINNER → PRACTITIONER → TEAM</text></g></svg>

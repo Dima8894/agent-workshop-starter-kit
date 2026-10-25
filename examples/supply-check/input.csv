@@ -1,0 +1,4 @@
+id,planned_date,status
+TEST-01,2026-10-21,open
+TEST-02,2026-10-22,completed
+TEST-03,,open

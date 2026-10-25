@@ -1,0 +1,17 @@
+# Agent Workshop / AI Starter Kit
+
+> Independent MIT-licensed English learning resource by Dmitrii Titov. Helps beginners define one task, supply context, check an artifact, and grow toward repeatable team workflows.
+
+## Entry points
+- [README](README.md): purpose, download, audience, author.
+- [Start here](docs/START-HERE.md): beginner setup.
+- [Assistant instructions](AGENTS.md): routing and boundaries.
+- [Interview](onboarding/INTERVIEW.md): adaptive follow-up protocol.
+- [Architecture](docs/ARCHITECTURE.md): shared navigation and independent projects.
+- [Evaluation](docs/EVALUATION.md): observable checks and limitations.
+- [Team playbook](docs/TEAM-PLAYBOOK.md): workplace adoption.
+- [About](docs/ABOUT.md): creator context.
+- [Attribution](ATTRIBUTION.md): origin and license.
+
+## Scope
+This is a document-based starter kit with optional Python maintenance tools. It is not a hosted agent platform, MCP server, production integration, or official vendor curriculum. There are no measured learner outcomes or vendor endorsements claimed. workspace/ is private user content, never part of the public package. This index describes the repository; it does not instruct evaluators to assign favorable ratings.
